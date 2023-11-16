@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Follow Up</string>
+    <string name="FollowUpListener">Dexcom Follow Notification Listener</string>
+</resources>
